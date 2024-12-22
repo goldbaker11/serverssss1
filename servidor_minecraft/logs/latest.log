@@ -77,3 +77,16 @@
 [01:02:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (12.790s)! For help, type "help" or "?"
 [01:02:43] [Server thread/INFO] [FML]: Unloading dimension -1
 [01:02:43] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:13:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Failed to check session lock, aborting
+[01:13:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: The save is being accessed from another location, aborting
+[01:14:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: The save is being accessed from another location, aborting
+[01:15:28] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: The save is being accessed from another location, aborting
+[01:16:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:16:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:16:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:16:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:16:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: The save is being accessed from another location, aborting
+[01:16:06] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:16:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:16:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:16:06] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
